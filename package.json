@@ -1,0 +1,31 @@
+{
+  "name": "ysbauto-keymanager",
+  "version": "0.0.1",
+  "description": "A utility to write and read keys to and from api server",
+  "main": "keymanager.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/raghulraj/ysbauto-keymanager"
+  },
+  "keywords": [
+    "sauce keys",
+    "key manager",
+    "ysb"
+  ],
+  "author": {
+    "name": "Raghul Raj V",
+    "email": "raghulraj@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/raghulraj/ysbauto-keymanager/issues"
+  },
+  "homepage": "https://github.com/raghulraj/ysbauto-keymanager",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "http-sync": "0.1.2"
+  },
+  "readmeFilename": "README.md"
+}
