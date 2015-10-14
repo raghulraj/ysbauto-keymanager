@@ -1,11 +1,11 @@
-# ysb-keymanager
+# ysbauto-keymanager
 
 A utility to write and read keys to and from api server
 
 ## Installation
 
  ```
- npm install ysb-keymanager
+ npm install ysbauto-keymanager
  ```
 
 ## Params
